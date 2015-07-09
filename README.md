@@ -1,5 +1,5 @@
 # tag-matcher [![Build Status](https://travis-ci.org/Colum-SMA-Dev/tag-matcher.svg?branch=master)](https://travis-ci.org/Colum-SMA-Dev/tag-matcher)
-A boolean tag matching library.
+A boolean tag matching library.  Interface is similar to regexs, you make a matcher with a query, and then call match() on it passing it something to match.  Tags must be passed to match() as an array of tags.
 
 Example usage:
 
