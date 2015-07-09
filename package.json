@@ -1,0 +1,25 @@
+{
+  "name": "tag-matcher",
+  "version": "1.0.0",
+  "description": "A boolean tag matching library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Colum-SMA-Dev/tag-matcher.git"
+  },
+  "author": "Matt Schick <matt@schickm.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colum-SMA-Dev/tag-matcher/issues"
+  },
+  "homepage": "https://github.com/Colum-SMA-Dev/tag-matcher",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
